@@ -1,0 +1,8 @@
+# pdf
+*.pdf
+
+# c
+*.o
+
+# zip
+*.zip
